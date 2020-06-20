@@ -1,0 +1,2 @@
+rootProject.name='ROMP'
+include ':app'
